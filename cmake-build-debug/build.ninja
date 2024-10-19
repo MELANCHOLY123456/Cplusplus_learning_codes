@@ -304,6 +304,204 @@ build square.exe: CXX_EXECUTABLE_LINKER__square_Debug CMakeFiles/square.dir/Chap
   TARGET_IMPLIB = libsquare.dll.a
   TARGET_PDB = square.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target capacity
+
+
+#############################################
+# Order-only phony target for capacity
+
+build cmake_object_order_depends_target_capacity: phony || .
+
+build CMakeFiles/capacity.dir/Chapter_09/capacity.cpp.obj: CXX_COMPILER__capacity_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/capacity.cpp || cmake_object_order_depends_target_capacity
+  DEP_FILE = CMakeFiles\capacity.dir\Chapter_09\capacity.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\capacity.dir
+  OBJECT_FILE_DIR = CMakeFiles\capacity.dir\Chapter_09
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target capacity
+
+
+#############################################
+# Link the executable capacity.exe
+
+build capacity.exe: CXX_EXECUTABLE_LINKER__capacity_Debug CMakeFiles/capacity.dir/Chapter_09/capacity.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\capacity.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = capacity.exe
+  TARGET_IMPLIB = libcapacity.dll.a
+  TARGET_PDB = capacity.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target erase01
+
+
+#############################################
+# Order-only phony target for erase01
+
+build cmake_object_order_depends_target_erase01: phony || .
+
+build CMakeFiles/erase01.dir/Chapter_09/erase01.cpp.obj: CXX_COMPILER__erase01_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/erase01.cpp || cmake_object_order_depends_target_erase01
+  DEP_FILE = CMakeFiles\erase01.dir\Chapter_09\erase01.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\erase01.dir
+  OBJECT_FILE_DIR = CMakeFiles\erase01.dir\Chapter_09
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target erase01
+
+
+#############################################
+# Link the executable erase01.exe
+
+build erase01.exe: CXX_EXECUTABLE_LINKER__erase01_Debug CMakeFiles/erase01.dir/Chapter_09/erase01.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\erase01.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = erase01.exe
+  TARGET_IMPLIB = liberase01.dll.a
+  TARGET_PDB = erase01.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target erase02
+
+
+#############################################
+# Order-only phony target for erase02
+
+build cmake_object_order_depends_target_erase02: phony || .
+
+build CMakeFiles/erase02.dir/Chapter_09/erase02.cpp.obj: CXX_COMPILER__erase02_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/erase02.cpp || cmake_object_order_depends_target_erase02
+  DEP_FILE = CMakeFiles\erase02.dir\Chapter_09\erase02.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\erase02.dir
+  OBJECT_FILE_DIR = CMakeFiles\erase02.dir\Chapter_09
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target erase02
+
+
+#############################################
+# Link the executable erase02.exe
+
+build erase02.exe: CXX_EXECUTABLE_LINKER__erase02_Debug CMakeFiles/erase02.dir/Chapter_09/erase02.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\erase02.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = erase02.exe
+  TARGET_IMPLIB = liberase02.dll.a
+  TARGET_PDB = erase02.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target erase03
+
+
+#############################################
+# Order-only phony target for erase03
+
+build cmake_object_order_depends_target_erase03: phony || .
+
+build CMakeFiles/erase03.dir/Chapter_09/erase03.cpp.obj: CXX_COMPILER__erase03_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/erase03.cpp || cmake_object_order_depends_target_erase03
+  DEP_FILE = CMakeFiles\erase03.dir\Chapter_09\erase03.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\erase03.dir
+  OBJECT_FILE_DIR = CMakeFiles\erase03.dir\Chapter_09
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target erase03
+
+
+#############################################
+# Link the executable erase03.exe
+
+build erase03.exe: CXX_EXECUTABLE_LINKER__erase03_Debug CMakeFiles/erase03.dir/Chapter_09/erase03.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\erase03.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = erase03.exe
+  TARGET_IMPLIB = liberase03.dll.a
+  TARGET_PDB = erase03.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target find_str
+
+
+#############################################
+# Order-only phony target for find_str
+
+build cmake_object_order_depends_target_find_str: phony || .
+
+build CMakeFiles/find_str.dir/Chapter_09/find_str.cpp.obj: CXX_COMPILER__find_str_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/find_str.cpp || cmake_object_order_depends_target_find_str
+  DEP_FILE = CMakeFiles\find_str.dir\Chapter_09\find_str.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\find_str.dir
+  OBJECT_FILE_DIR = CMakeFiles\find_str.dir\Chapter_09
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target find_str
+
+
+#############################################
+# Link the executable find_str.exe
+
+build find_str.exe: CXX_EXECUTABLE_LINKER__find_str_Debug CMakeFiles/find_str.dir/Chapter_09/find_str.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\find_str.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = find_str.exe
+  TARGET_IMPLIB = libfind_str.dll.a
+  TARGET_PDB = find_str.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target find_ops
+
+
+#############################################
+# Order-only phony target for find_ops
+
+build cmake_object_order_depends_target_find_ops: phony || .
+
+build CMakeFiles/find_ops.dir/Chapter_09/find_ops.cpp.obj: CXX_COMPILER__find_ops_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/find_ops.cpp || cmake_object_order_depends_target_find_ops
+  DEP_FILE = CMakeFiles\find_ops.dir\Chapter_09\find_ops.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\find_ops.dir
+  OBJECT_FILE_DIR = CMakeFiles\find_ops.dir\Chapter_09
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target find_ops
+
+
+#############################################
+# Link the executable find_ops.exe
+
+build find_ops.exe: CXX_EXECUTABLE_LINKER__find_ops_Debug CMakeFiles/find_ops.dir/Chapter_09/find_ops.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\find_ops.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = find_ops.exe
+  TARGET_IMPLIB = libfind_ops.dll.a
+  TARGET_PDB = find_ops.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -340,7 +538,19 @@ build c_string: phony c_string.exe
 
 build c_type: phony c_type.exe
 
+build capacity: phony capacity.exe
+
 build char_repl: phony char_repl.exe
+
+build erase01: phony erase01.exe
+
+build erase02: phony erase02.exe
+
+build erase03: phony erase03.exe
+
+build find_ops: phony find_ops.exe
+
+build find_str: phony find_str.exe
 
 build get_line: phony get_line.exe
 
@@ -354,7 +564,7 @@ build square: phony square.exe
 #############################################
 # Folder: D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug
 
-build all: phony C___learning_codes.exe add_using.exe arrayScores.exe c_type.exe char_repl.exe c_string.exe get_line.exe square.exe
+build all: phony C___learning_codes.exe add_using.exe arrayScores.exe c_type.exe char_repl.exe c_string.exe get_line.exe square.exe capacity.exe erase01.exe erase02.exe erase03.exe find_str.exe find_ops.exe
 
 # =============================================================================
 # Built-in targets

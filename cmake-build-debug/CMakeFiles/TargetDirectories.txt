@@ -6,5 +6,11 @@ D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMake
 D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/c_string.dir
 D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/get_line.dir
 D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/square.dir
+D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/capacity.dir
+D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/erase01.dir
+D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/erase02.dir
+D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/erase03.dir
+D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/find_str.dir
+D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/find_ops.dir
 D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
