@@ -1,0 +1,21 @@
+# ninja log v6
+3	472	7510139958790403	CMakeFiles/C___learning_codes.dir/main.cpp.obj	4412d1c1e28a6b9c
+448	523	7510181496939744	char_repl.exe	1280270c75c47e02
+8	503	7510154683664719	CMakeFiles/arrayScores.dir/3/arrayScores.cpp.obj	f8d819a5b8c649a4
+442	521	7510175345295956	c_type.exe	c5a08c21dd3eec91
+474	551	7510139963501312	C___learning_codes.exe	28a94e1261c4d595
+503	577	7510154688621943	arrayScores.exe	b32ac3b701fe0c57
+427	499	7510144414111951	add_using_exe.exe	9be2c3b85797bdd
+5	421	7510198216247155	CMakeFiles/get_line.dir/Chapter_03/get_line.cpp.obj	2bb38a36602db13f
+4	432	7510142648211040	CMakeFiles/C___learning_codes.dir/3/add_using.cpp.obj	8baf4d25ec4da423
+3	413	7510145815242106	CMakeFiles/add_using.dir/3/add_using.cpp.obj	34f0040e5a82bca8
+414	488	7510145819349861	add_using.exe	776e4967354022aa
+5	441	7510166103285186	CMakeFiles/c_type.dir/3/c_type.cpp.obj	debdd6b67df11218
+2	217	7510225064320251	build.ninja	6b82ec75f07e79bf
+2	442	7510175340898082	CMakeFiles/c_type.dir/Chapter_03/c_type.cpp.obj	e4c72a1d18ee20af
+8	447	7510181492535566	CMakeFiles/char_repl.dir/Chapter_03/char_repl.cpp.obj	cbd1e3fce66a9c31
+444	519	7510194694479046	c_string.exe	510ad386d6fb8136
+5	444	7510194690091077	CMakeFiles/c_string.dir/Chapter_03/c_string_hdr.cpp.obj	f809a6728146d2cb
+421	494	7510198220416610	get_line.exe	1a33f76f98d91af4
+1	659	7510226979544381	CMakeFiles/square.dir/Chapter_03/square.cpp.obj	612b9b357eb2dd7c
+659	743	7510226986122185	square.exe	31ae62e73d4f6d09
