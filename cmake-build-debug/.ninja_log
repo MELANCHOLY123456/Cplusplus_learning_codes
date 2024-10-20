@@ -1,18 +1,14 @@
 # ninja log v6
 3	472	7510139958790403	CMakeFiles/C___learning_codes.dir/main.cpp.obj	4412d1c1e28a6b9c
 448	523	7510181496939744	char_repl.exe	1280270c75c47e02
-8	503	7510154683664719	CMakeFiles/arrayScores.dir/3/arrayScores.cpp.obj	f8d819a5b8c649a4
 626	724	7510276849010452	erase02.exe	4fc1ac1a140079bc
 442	521	7510175345295956	c_type.exe	c5a08c21dd3eec91
 474	551	7510139963501312	C___learning_codes.exe	28a94e1261c4d595
 503	577	7510154688621943	arrayScores.exe	b32ac3b701fe0c57
-5	421	7510198216247155	CMakeFiles/get_line.dir/Chapter_03/get_line.cpp.obj	2bb38a36602db13f
 427	499	7510144414111951	add_using_exe.exe	9be2c3b85797bdd
-4	432	7510142648211040	CMakeFiles/C___learning_codes.dir/3/add_using.cpp.obj	8baf4d25ec4da423
-3	413	7510145815242106	CMakeFiles/add_using.dir/3/add_using.cpp.obj	34f0040e5a82bca8
+5	421	7510198216247155	CMakeFiles/get_line.dir/Chapter_03/get_line.cpp.obj	2bb38a36602db13f
 414	488	7510145819349861	add_using.exe	776e4967354022aa
-5	441	7510166103285186	CMakeFiles/c_type.dir/3/c_type.cpp.obj	debdd6b67df11218
-2	217	7510300164921341	build.ninja	6b82ec75f07e79bf
+2	217	7510956722842037	build.ninja	6b82ec75f07e79bf
 2	442	7510175340898082	CMakeFiles/c_type.dir/Chapter_03/c_type.cpp.obj	e4c72a1d18ee20af
 8	447	7510181492535566	CMakeFiles/char_repl.dir/Chapter_03/char_repl.cpp.obj	cbd1e3fce66a9c31
 444	519	7510194694479046	c_string.exe	510ad386d6fb8136
@@ -27,9 +23,6 @@
 2	625	7510276842780644	CMakeFiles/erase02.dir/Chapter_09/erase02.cpp.obj	c584b3c9a1357637
 2	619	7510279636880819	CMakeFiles/erase03.dir/Chapter_09/erase03.cpp.obj	37bba4583952e54f
 620	922	7510279643050407	erase03.exe	648b9e713242e13a
-3	574	7510283194373837	CMakeFiles/find_str.cpp.dir/Chapter_09/find_str.cpp.obj	53fa8ed013e0f5c8
 574	660	7510283200092743	find_str.cpp.exe	71ca6f79d4eddd8d
-2	461	7510305400659398	CMakeFiles/find_ops.dir/Chapter_09/find_ops.cpp.obj	7bf52bbb2046c64f
-461	550	7510305405251909	find_ops.exe	d5550627170d6998
 5	466	7510306892454964	CMakeFiles/find_ops.dir/Chapter_09/find_ops.cpp.obj	7bf52bbb2046c64f
 466	562	7510306897065911	find_ops.exe	d5550627170d6998

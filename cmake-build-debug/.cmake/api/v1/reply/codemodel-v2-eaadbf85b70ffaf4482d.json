@@ -1,0 +1,177 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C___learning_codes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C___learning_codes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___learning_codes-Debug-ccfdc619d88b4ee63abc.json",
+					"name" : "C___learning_codes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "add_using::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-add_using-Debug-4bcf6cf1a25c6916d604.json",
+					"name" : "add_using",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "arrayScores::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arrayScores-Debug-6656715bc5f1768eae7c.json",
+					"name" : "arrayScores",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c_string-Debug-8d8a0c5c2a278f4af1b4.json",
+					"name" : "c_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c_type::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c_type-Debug-86b27082e1761534b7bf.json",
+					"name" : "c_type",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "capacity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-capacity-Debug-9161d13a07d46a83c5c0.json",
+					"name" : "capacity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "char_repl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-char_repl-Debug-b2cd9908987974705aa5.json",
+					"name" : "char_repl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "erase01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-erase01-Debug-2c9e3644d5b47988aa5d.json",
+					"name" : "erase01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "erase02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-erase02-Debug-4da96d03be1f9143417a.json",
+					"name" : "erase02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "erase03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-erase03-Debug-9c0311b8b8cecc2941b7.json",
+					"name" : "erase03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "find_ops::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-find_ops-Debug-2675b096762bbf18a5b8.json",
+					"name" : "find_ops",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "find_str::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-find_str-Debug-7413bba1387e01bc1557.json",
+					"name" : "find_str",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_line::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_line-Debug-642794ee17bcc15ad8ca.json",
+					"name" : "get_line",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "square::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-square-Debug-afa29ca206b836244990.json",
+					"name" : "square",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u6211\u7684\u5b66\u4e60\u8d44\u6e90/13-C++_learning/01-C++_learning_codes/cmake-build-debug",
+		"source" : "D:/\u6211\u7684\u5b66\u4e60\u8d44\u6e90/13-C++_learning/01-C++_learning_codes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
